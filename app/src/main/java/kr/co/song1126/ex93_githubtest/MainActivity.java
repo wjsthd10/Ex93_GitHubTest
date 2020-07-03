@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int b=20;
         //페이지에서 변경한 값 호출해보기
 
+        //dav에서 바꾸기
+
     }
 }
