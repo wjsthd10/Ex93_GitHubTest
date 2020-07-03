@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int a=10;
+        int b=20;
+        //페이지에서 변경한 값 호출해보기
 
     }
 }
